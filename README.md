@@ -1,5 +1,11 @@
 # Stroke-related Brain Connectivity from fNIRS Data
 
+## 📅 Project Info
+
+| Type    | Date       | Title                                     | GitHub Repo | Tags                                |
+|---------|------------|--------------------------------------------|-------------|-------------------------------------|
+| Project | 2025-06-13 | Stroke-related Brain Connectivity from fNIRS Data | https://github.com/yvonne8881/Yvonne_BHS_2025-project | `fNIRS` `stroke` `connectivity` `brainhack` |
+
 
 ## 🧠 Project Overview
 
