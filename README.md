@@ -80,3 +80,10 @@ We build upon connectivity-based frameworks (Grefkes & Fink, 2014) using fNIRS r
 - Incorporate EEG or MRI multimodal data  
 - Develop machine learning models for prognosis
 
+## 🙌 Acknowledgements & Reflection
+
+Special thanks to **National Taiwan University (NTU TW)**, **National University of Singapore (NTU SG)**, and the **BrainHack School 2025** organizers for providing the opportunity and resources to carry out this project. Before this course, I had **no much prior experience in neuroimaging-related coding**, and most of the scripts were adapted from existing **MATLAB pipelines**. Although there are still many areas for improvement — and the code might contain errors — this semester has helped me gain a much **clearer understanding of the steps and logic behind brain signal analysis**.
+
+Thank you again for this challenging but rewarding learning journey!
+
+
